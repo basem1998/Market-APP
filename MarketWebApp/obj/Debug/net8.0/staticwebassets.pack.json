@@ -1,0 +1,1157 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MarketWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MarketWebApp.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\1.jpg",
+      "PackagePath": "staticwebassets\\1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\CantDelete.jpg",
+      "PackagePath": "staticwebassets\\CantDelete.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\Ahmed.css",
+      "PackagePath": "staticwebassets\\css\\Ahmed.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\Logout.css",
+      "PackagePath": "staticwebassets\\css\\Logout.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\Reg.css",
+      "PackagePath": "staticwebassets\\css\\Reg.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\Rigster.css",
+      "PackagePath": "staticwebassets\\css\\Rigster.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\Se7teen-logo.png",
+      "PackagePath": "staticwebassets\\img\\Se7teen-logo.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\Se7teen-logo2.png",
+      "PackagePath": "staticwebassets\\img\\Se7teen-logo2.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-10.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-10.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\featured\\feature-9.jpg",
+      "PackagePath": "staticwebassets\\img\\featured\\feature-9.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\h.jpg",
+      "PackagePath": "staticwebassets\\img\\h.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\l.jpg",
+      "PackagePath": "staticwebassets\\img\\l.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\language.png",
+      "PackagePath": "staticwebassets\\img\\language.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\img\\payment-item.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\Tiger.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\Tiger.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\Sweet.js",
+      "PackagePath": "staticwebassets\\js\\Sweet.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-area-demo.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-bar-demo.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\js\\chart-pie-demo.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\js\\scriptRigster.js",
+      "PackagePath": "staticwebassets\\js\\scriptRigster.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "E:\\MarketWebApp\\MarketWebApp\\wwwroot\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MarketWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MarketWebApp.props",
+      "PackagePath": "build\\MarketWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MarketWebApp.props",
+      "PackagePath": "buildMultiTargeting\\MarketWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MarketWebApp.props",
+      "PackagePath": "buildTransitive\\MarketWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
